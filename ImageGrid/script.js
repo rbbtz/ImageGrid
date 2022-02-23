@@ -1,0 +1,2 @@
+overflow: 'hidden',
+backgroundSize: 'contain',
